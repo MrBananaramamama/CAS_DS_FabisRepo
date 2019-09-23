@@ -1,0 +1,325 @@
+,place,magnitude,tsunami
+0,"10km SSW of Idyllwild, CA",1.29,0
+1,"117km NW of Talkeetna, Alaska",1.1,0
+2,"6km SSW of Big Lake, Alaska",1.2,0
+3,"63km NW of Talkeetna, Alaska",1.4,0
+4,"27km WNW of Coquimbo, Chile",4.0,0
+5,"4km NW of The Geysers, California",0.53,0
+6,"6km E of Mammoth Lakes, California",0.7,0
+7,"11km ESE of Anza, CA",0.47,0
+8,Nevada,0.6,0
+9,South of the Fiji Islands,4.2,0
+10,"74km SW of Unalaska, Alaska",1.8,0
+11,"269km S of Amahusu, Indonesia",4.2,0
+12,"12km E of Victoria, Canada",0.64,0
+13,Nevada,0.3,0
+14,"4km SW of Guaynabo, Puerto Rico",2.7,0
+15,"10km SW of Niland, CA",0.3,0
+16,"18km ESE of Playa Vicente, Mexico",4.0,0
+17,"53km NNW of Pahrump, Nevada",0.3,0
+18,"12km SE of Mammoth Lakes, California",0.35,0
+19,"13km W of Alberto Oviedo Mota, B.C., MX",1.88,0
+20,"1km ESE of The Geysers, CA",1.24,0
+21,"2km ESE of Bishop, California",0.68,0
+22,Northern California,0.52,0
+23,"6km NW of The Geysers, California",1.05,0
+24,"36km WNW of Sola, Vanuatu",4.6,0
+25,Nevada,0.8,0
+26,"27km NNW of Packwood, Washington",-0.33,0
+27,"5km SW of Idyllwild, CA",0.53,0
+28,"24km N of Dixon Lane-Meadow Creek, California",2.51,0
+29,"4km NW of The Geysers, California",0.54,0
+30,Nevada,0.4,0
+31,"5km WNW of The Geysers, California",1.42,0
+32,"20km ESE of Anza, CA",0.45,0
+33,"6km E of Mammoth Lakes, California",0.67,0
+34,"6km E of Mammoth Lakes, California",0.34,0
+35,"7km ESE of Mammoth Lakes, California",0.13,0
+36,Southern Mid-Atlantic Ridge,4.4,0
+37,"32km WNW of Valdez, Alaska",1.8,0
+38,"6km E of Mammoth Lakes, California",0.6,0
+39,"57km ESE of Whittier, Alaska",1.9,0
+40,Northern California,0.57,0
+41,"7km NW of The Geysers, California",0.46,0
+42,"82km SW of Unalaska, Alaska",2.4,0
+43,"7km NW of The Geysers, California",1.3,0
+44,Nevada,0.0,0
+45,"1km ENE of Badger, Alaska",0.5,0
+46,"216km NW of Saumlaki, Indonesia",4.0,0
+47,"6km NW of The Geysers, California",0.59,0
+48,"10km NE of Indio, CA",1.0,0
+49,"69km ENE of Amahai, Indonesia",4.7,0
+50,"11km SSE of Chester, California",1.4,0
+51,Nevada,1.0,0
+52,"180km SSE of Sinabang, Indonesia",4.5,0
+53,"11km W of Alberto Oviedo Mota, B.C., MX",1.98,0
+54,"12km ENE of Coso Junction, CA",0.08,0
+55,Nevada,1.6,0
+56,"72km W of Cantwell, Alaska",1.9,0
+57,"72km E of Bear Creek, Alaska",1.9,0
+58,"3km W of Cobb, California",0.87,0
+59,Northern California,0.52,0
+60,"1km WSW of Wauna, Washington",0.71,0
+61,"2km WNW of Cobb, California",1.45,0
+62,"10km NE of Indio, CA",0.97,0
+63,Northern California,0.47,0
+64,"6km NW of The Geysers, California",0.63,0
+65,"13km SW of Westwood, California",1.63,0
+66,"4km S of Wofford Heights, CA",1.02,0
+67,"84km SW of Sand Point, Alaska",2.1,0
+68,"20km ESE of Anza, CA",0.45,0
+69,"61km WNW of Beatty, Nevada",0.0,0
+70,"77km NNE of Redoubt Volcano, Alaska",2.1,0
+71,"Long Valley area, California",-0.01,0
+72,"61km NW of Meulaboh, Indonesia",4.3,0
+73,"32km WNW of Seward, Alaska",1.9,0
+74,"11km ENE of Coso Junction, CA",0.13,0
+75,"3km NNW of The Geysers, California",0.28,0
+76,Central California,0.07,0
+77,"27km NE of Soledad, California",0.66,0
+78,Northern California,0.84,0
+79,"8km SSE of Willow, Alaska",1.4,0
+80,"3km S of Wofford Heights, CA",1.26,0
+81,"8km N of Rigaud, Canada",1.88,0
+82,"54km N of Valdez, Alaska",1.9,0
+83,Nevada,-0.3,0
+84,"5km NW of The Geysers, California",0.52,0
+85,"5km S of Wofford Heights, CA",0.68,0
+86,"152km SSE of Tok, Alaska",1.3,0
+87,"6km WSW of Mammoth Lakes, California",0.56,0
+88,"3km NW of The Geysers, California",0.53,0
+89,Nevada,-0.2,0
+90,"7km WSW of Mammoth Lakes, California",0.34,0
+91,"10km W of Mammoth Lakes, California",0.37,0
+92,"19km W of Mammoth Lakes, California",0.81,0
+93,"9km N of Cabazon, CA",1.44,0
+94,"8km NNW of Anza, CA",0.35,0
+95,"4km S of Wofford Heights, CA",1.1,0
+96,"46km ESE of Farallon de Pajaros, Northern Mariana Islands",4.7,0
+97,"6km W of Cobb, California",0.85,0
+98,"10km SSW of Idyllwild, CA",-0.05,0
+99,"2km WSW of Wauna, Washington",1.43,0
+100,"64km SE of Tanaga Volcano, Alaska",3.6,0
+101,"9km NW of The Geysers, California",1.98,0
+102,"7km NNW of Cabazon, CA",0.93,0
+103,"34km N of Nikiski, Alaska",1.6,0
+104,"119km W of Cantwell, Alaska",1.4,0
+105,"6km WSW of Calipatria, CA",1.22,0
+106,"17km SSE of Pahala, Hawaii",2.2,0
+107,"10km WNW of Cobb, California",1.03,0
+108,"22km S of Sequim, Washington",0.19,0
+109,"10km SSE of Pole Ojea, Puerto Rico",1.4,0
+110,"21km ESE of Pospelikha, Russia",4.6,0
+111,"23km E of Shingletown, California",0.51,0
+112,"3km S of San Juan Bautista, California",1.03,0
+113,"5km W of Cobb, California",0.53,0
+114,"17km S of Volcano, Hawaii",1.3,0
+115,Northern California,0.57,0
+116,"55km NW of Abra Pampa, Argentina",4.9,0
+117,"1km NE of Shandon, California",1.03,0
+118,"63km S of Tecoanapa, Mexico",4.2,0
+119,"32km W of Sola, Vanuatu",6.5,1
+120,"4km S of Wofford Heights, CA",0.96,0
+121,"5km SSW of Wofford Heights, CA",3.02,0
+122,"20km ESE of Anza, CA",0.4,0
+123,"85km ENE of Cantwell, Alaska",2.1,0
+124,"Long Valley area, California",-0.12,0
+125,"102km ESE of Akutan, Alaska",2.3,0
+126,"106km ESE of Manay, Philippines",4.3,0
+127,"1km NNW of The Geysers, California",1.31,0
+128,"61km WNW of Port-Vila, Vanuatu",4.6,0
+129,"16km WNW of West Bishop, California",0.73,0
+130,"24km WSW of Smith Valley, Nevada",0.6,0
+131,"7km WNW of Cobb, California",0.68,0
+132,"21km ESE of Takahagi, Japan",4.9,0
+133,East of the North Island of New Zealand,4.9,0
+134,"17km SW of Chester, California",1.42,0
+135,"109km NW of Talkeetna, Alaska",1.3,0
+136,"40km SE of Emajagua, Puerto Rico",2.2,0
+137,"11km NE of Coso Junction, CA",-0.07,0
+138,"186km SSE of Atka, Alaska",2.5,0
+139,"107km NW of Talkeetna, Alaska",1.6,0
+140,"27km W of Finschhafen, Papua New Guinea",4.0,0
+141,"18km NW of Coso Junction, CA",0.52,0
+142,Southern Alaska,0.3,0
+143,"3km W of Cobb, California",1.38,0
+144,"78km NW of Nikiski, Alaska",0.4,0
+145,"53km ENE of Valdez, Alaska",1.7,0
+146,"13km WNW of Rincon, Puerto Rico",2.5,0
+147,"28km WSW of Ester, Alaska",1.7,0
+148,"2km SSE of Ladera, California",0.36,0
+149,"56km SSE of Akutan, Alaska",2.4,0
+150,"118km SE of Adak, Alaska",1.8,0
+151,"16km NNE of Angwin, California",0.93,0
+152,"25km WSW of Y, Alaska",2.0,0
+153,"88km SSW of Masachapa, Nicaragua",4.6,0
+154,"6km W of Middletown, California",0.43,0
+155,"Andreanof Islands, Aleutian Islands, Alaska",1.8,0
+156,"8km ENE of Coso Junction, CA",0.38,0
+157,"80km NW of Agrihan, Northern Mariana Islands",4.1,0
+158,"5km WNW of The Geysers, California",1.25,0
+159,"15km SE of Fredonia, Arizona",1.79,0
+160,"29km SW of Lima, Montana",1.4,0
+161,"10km NE of Coso Junction, CA",0.75,0
+162,"19km E of Kelso, Washington",0.43,0
+163,"6km NW of The Geysers, California",0.27,0
+164,"15km E of Little Lake, CA",0.16,0
+165,"1km NNE of The Geysers, California",0.87,0
+166,"280km ENE of Dili, East Timor",4.2,0
+167,"9km NNE of Banning, CA",0.26,0
+168,"121km ESE of Bitung, Indonesia",4.1,0
+169,"181km E of Chitina, Alaska",1.4,0
+170,"156km NE of Calama, Chile",4.0,0
+171,West Chile Rise,4.6,0
+172,"69km NNW of Visokoi Island, ",4.4,0
+173,"13km SSW of Lakeport, California",1.14,0
+174,"Andreanof Islands, Aleutian Islands, Alaska",1.7,0
+175,"73km N of Talkeetna, Alaska",1.4,0
+176,"82km SSE of Akutan, Alaska",2.5,0
+177,"17km E of Hawthorne, Nevada",0.0,0
+178,"10km WNW of Garnet, CA",0.72,0
+179,"17km NNE of Old Faithful Geyser, Wyoming",1.28,0
+180,"5km WSW of Mammoth Lakes, California",0.1,0
+181,"18km NNE of Old Faithful Geyser, Wyoming",1.79,0
+182,Nevada,-0.3,0
+183,"46km WSW of Amatignak Island, Alaska",2.6,0
+184,"97km SSW of Banda Aceh, Indonesia",4.0,0
+185,"45km NW of Willow, Alaska",1.3,0
+186,"117km SE of Adak, Alaska",2.9,0
+187,"5km NW of The Geysers, California",1.99,0
+188,"10km WNW of Cobb, California",0.55,0
+189,"0km SSW of Orange, CA",1.36,0
+190,"6km W of Cobb, California",0.73,0
+191,"8km SW of Cantwell, Alaska",1.8,0
+192,"Andreanof Islands, Aleutian Islands, Alaska",1.9,0
+193,"74km W of Willow, Alaska",1.8,0
+194,"89km NW of San Antonio, Puerto Rico",3.2,0
+195,"36km N of Talkeetna, Alaska",1.5,0
+196,"14km NW of Coso Junction, CA",0.49,0
+197,Nevada,-0.7,0
+198,"81km SSE of Cold Bay, Alaska",2.6,0
+199,"48km WNW of Tremonton, Utah",2.11,0
+200,"7km NW of The Geysers, California",0.9,0
+201,"45km S of Tanaga Volcano, Alaska",2.5,0
+202,Central California,1.1,0
+203,"6km W of Cobb, California",1.3,0
+204,Northern California,0.23,0
+205,"11km NNE of Angwin, California",1.85,0
+206,"6km W of Cobb, California",1.58,0
+207,"6km NNW of Cabazon, CA",1.11,0
+208,"1km W of Lemmon Valley, Nevada",0.5,0
+209,"3km SSW of Idyllwild, CA",0.49,0
+210,"5km SSW of Mammoth Lakes, California",0.12,0
+211,Northern California,0.56,0
+212,"8km SSW of Dayton, Nevada",0.7,0
+213,"258km NNE of Ndoi Island, Fiji",4.6,0
+214,"8km N of Borrego Springs, CA",0.39,0
+215,Northern California,0.07,0
+216,"6km NW of The Geysers, California",0.18,0
+217,"10km NNW of Anza, CA",0.47,0
+218,"8km WNW of Cobb, California",0.9,0
+219,"Andreanof Islands, Aleutian Islands, Alaska",1.8,0
+220,Northern California,-0.8,0
+221,"4km ENE of Laytonville, California",1.2,0
+222,"260km W of Kamiiso, Japan",4.9,0
+223,"22km NNE of Soledad, California",0.76,0
+224,"5km W of Cobb, California",0.31,0
+225,"6km W of Cobb, California",0.55,0
+226,"11km NW of Warner Springs, CA",0.72,0
+227,"5km NW of Montalvin, California",0.73,0
+228,"1km NNW of The Geysers, California",0.52,0
+229,Northern California,-0.8,0
+230,"256km N of Marion Island, Prince Edward Islands",4.3,0
+231,"29km SW of Darab, Iran",4.0,0
+232,"10km N of Banning, CA",0.79,0
+233,"15km N of Borrego Springs, CA",1.36,0
+234,"6km W of Cobb, California",0.9,0
+235,"7km NNE of Cloverdale, California",1.12,0
+236,"15km NW of Coso Junction, CA",1.05,0
+237,"12km ENE of Cabazon, CA",0.89,0
+238,"60km W of Vallenar, Chile",4.5,0
+239,Northern California,-0.9,0
+240,"31km SSE of Manti, Utah",1.47,0
+241,"11km SE of Lucerne Valley, CA",1.25,0
+242,"7km SE of Valle Vista, CA",0.64,0
+243,Northern California,-0.4,0
+244,"26km WSW of Coalinga, California",0.37,0
+245,"28km WSW of Coalinga, California",0.66,0
+246,Nevada,-0.1,0
+247,"14km NW of Coso Junction, CA",0.59,0
+248,"72km N of Talkeetna, Alaska",2.3,0
+249,"7km SE of Valle Vista, CA",1.23,0
+250,"1km SW of Cobb, California",1.34,0
+251,Nevada,-0.5,0
+252,Southern Mid-Atlantic Ridge,4.7,0
+253,"23km WSW of Malad City, Idaho",2.92,0
+254,"26km NE of Redway, California",2.12,0
+255,"30km W of Hachijo-jima, Japan",4.1,0
+256,"233km NW of Tobelo, Indonesia",4.1,0
+257,"6km NW of The Geysers, California",0.89,0
+258,"4km NNW of White Center, Washington",1.03,0
+259,"11km NNE of Borrego Springs, CA",0.82,0
+260,"39km NE of Nikiski, Alaska",1.4,0
+261,"12km SSW of Loyola, California",0.36,0
+262,"1km W of Beaumont, CA",1.03,0
+263,Nevada,-0.9,0
+264,"122km W of Willow, Alaska",1.6,0
+265,"158km SE of Nikolski, Alaska",2.9,0
+266,"19km SE of Mammoth Lakes, California",0.57,0
+267,Nevada,0.9,0
+268,"9km N of Rancho Cucamonga, CA",1.01,0
+269,"19km SE of Mammoth Lakes, California",0.4,0
+270,"25km NNW of Laytonville, California",1.05,0
+271,"87km NNW of Nikiski, Alaska",1.8,0
+272,"2km SE of Fairfield Bay, Arkansas",1.9,0
+273,"23km ESE of Yosemite Valley, California",1.32,0
+274,"18km ESE of Anza, CA",0.39,0
+275,"19km SE of Mammoth Lakes, California",0.69,0
+276,"297km NE of Dili, East Timor",4.1,0
+277,"6km NW of The Geysers, California",0.43,0
+278,"7km W of Cobb, California",0.43,0
+279,"6km NW of The Geysers, California",1.46,0
+280,"12km NW of West Yellowstone, Montana",0.7,0
+281,"6km NNE of Chatsworth, CA",1.42,0
+282,"2km SE of The Geysers, California",0.59,0
+283,"5km NW of The Geysers, California",0.75,0
+284,"24km SE of Yosemite Valley, California",1.13,0
+285,"74km SW of Lata, Solomon Islands",4.1,0
+286,"7km W of Cobb, California",0.45,0
+287,"41km WSW of Lakeside, Montana",1.9,0
+288,"48km NE of Thompson Falls, Montana",1.6,0
+289,"24km SE of Yosemite Valley, California",1.14,0
+290,"77km NNW of Talkeetna, Alaska",1.6,0
+291,"26km SE of Yosemite Valley, California",1.15,0
+292,"7km W of Cobb, California",0.56,0
+293,Nevada,-0.6,0
+294,"63km W of Willow, Alaska",1.6,0
+295,Nevada,1.1,0
+296,"7km NW of The Geysers, California",1.01,0
+297,"174km E of Chitina, Alaska",2.3,0
+298,"24km WSW of Coalinga, California",1.26,0
+299,"4km WNW of Cobb, California",0.23,0
+300,"10km NNE of Ocotillo Wells, CA",2.4,0
+301,"7km N of Pahala, Hawaii",2.5,0
+302,"19km SE of Volcano, Hawaii",2.5,0
+303,Northern California,0.45,0
+304,"7km WNW of Cobb, California",0.43,0
+305,"7km W of Cobb, California",1.05,0
+306,"27km W of Chester, California",0.55,0
+307,"23km WSW of Malad City, Idaho",2.19,0
+308,"68km NNW of Pagudpud, Philippines",4.3,0
+309,"134km SSE of False Pass, Alaska",2.9,0
+310,"194km S of Taron, Papua New Guinea",4.2,0
+311,"15km N of Borrego Springs, CA",0.58,0
+312,"32km E of Redoubt Volcano, Alaska",1.8,0
+313,"87km SE of Nikolski, Alaska",2.3,0
+314,"21km ESE of Anza, CA",0.1,0
+315,"74km SSE of Deltana, Alaska",1.3,0
+316,"21km NNW of Amboy, Washington",0.22,0
+317,"4km WNW of Cobb, California",1.07,0
+318,"20km SW of Leilani Estates, Hawaii",2.1,0
+319,"46km SSW of Redoubt Volcano, Alaska",2.0,0
+320,"9km WNW of The Geysers, California",0.57,0
+321,"1km NW of Sweet Home, Oregon",2.2,0
+322,"163km W of Neiafu, Tonga",4.5,0
+323,"76km NNW of Davila, Philippines",5.1,0
